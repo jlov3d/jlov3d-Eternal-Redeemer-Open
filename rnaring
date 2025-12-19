@@ -1,0 +1,15 @@
+Eternal-Redeemer-Open/
+├── README.md                          # CC0 Manifesto + overview
+├── LICENSE-CC0.txt                    # CC0 1.0 Universal for ideas/docs
+├── LICENSE-MIT.txt                    # MIT for code
+├── manifesto/
+│   └── eternal_redeemer_manifesto.md  # Full visionary text (CC0)
+├── code/
+│   ├── 8axis_mitosis_engine.py        # Core simulation (MIT)
+│   ├── phos_eon_reservoir.py          # Layered polyP model
+│   ├── genesis_stitch_protocol.py     # RNA bridge design
+│   └── sentinel_fhss.py               # Secure actuation
+├── docs/
+│   ├── quantum_bio_antenna.md         # Unseen mechanics
+│   └── grant_submissions/             # Open templates
+└── visuals/                           # Butterfly scaffolds, 8D projections
